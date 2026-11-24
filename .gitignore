@@ -1,0 +1,13 @@
+# Hemliga API-nycklar
+.env
+
+# Virtuella Pythonmiljöer
+.venv/
+.venv_test/
+
+# Python-cache
+__pycache__/
+*.pyc
+
+# Övriga lokala filer
+.vscode/
